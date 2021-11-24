@@ -8,3 +8,7 @@ VALUES
 ('admin', 'ROLE_USER'),
 ('admin', 'ROLE_ADMIN'),
 ('user', 'ROLE_USER');
+
+INSERT INTO games (name, uploader_id)
+VALUES
+('super mario', 1);
